@@ -1,0 +1,32 @@
+.team-matches-recent {
+  background-color: #1e293b;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  width: 300px;
+  text-align: center;
+}
+.competing-team-logo-recent {
+  width: 50%;
+  height: 20vh;
+}
+.recent-competing-team {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 32px;
+}
+.result {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+}
+.red {
+  color: red;
+  font-family: 'Bree Serif';
+  font-size: 26px;
+}
+.green {
+  color: green;
+  font-family: 'Bree Serif';
+  font-size: 26px;
+}

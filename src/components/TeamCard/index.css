@@ -1,0 +1,24 @@
+.item-container {
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  width: 480px;
+  height: 200px;
+  margin: 20px;
+  background-color: #ffffff33;
+  display: flex;
+  padding: 20px;
+  text-decoration: none;
+}
+.img-size {
+  width: 20%;
+  margin-right: 20px;
+}
+.team-heading {
+  font-size: 20px;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 34px;
+  font-family: 'Bree Serif';
+  display: flex;
+  align-items: center;
+}

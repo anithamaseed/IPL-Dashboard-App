@@ -1,0 +1,16 @@
+.team-matches-container {
+  background-color: #a4261d;
+  padding: 15px;
+  margin: 0;
+}
+.team-banner {
+  margin: 20px;
+  width: 98%;
+  text-align: center;
+}
+.recent-matches-container-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+}
